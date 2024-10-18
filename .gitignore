@@ -1,0 +1,7 @@
+## Ignorar todos estos archivos de terraform
+
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform/
+.terraform.*
