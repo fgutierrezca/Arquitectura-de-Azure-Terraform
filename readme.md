@@ -1,6 +1,6 @@
 ## Diagrama de Infraestructura
 
-<image src="images/rg-sistcont-dev.jpg" alt="Diagrama de infraestructura">
+<image src="/images/rg-sistcont-dev.jpg" alt="Diagrama de infraestructura">
 
 ## Enlace al video de explicacion
 
